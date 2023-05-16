@@ -1,0 +1,55 @@
+.judul{
+    text-align: center;
+    padding-top: 20px;
+}
+.atas{
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 900px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+.batas{
+    margin-left: 45px;
+    margin-right: 45px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tengah{
+    text-align: center;
+}
+
+.isi{
+    padding-top: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cari{
+    padding-bottom: 10px;
+    padding-left: 520px;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: bold;
+    padding-left: 25px;
+    padding-bottom: 10px;
+}
+
+
+.keluar{
+    padding-bottom: 10px;
+    padding-left: 157px;
+    padding-right: 157px;
+}
+
+.keluar2{
+    padding-bottom: 10px;
+}
+
